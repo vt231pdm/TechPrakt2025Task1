@@ -42,7 +42,7 @@ footer{
     line-height: 30px; 
     text-indent: 10px; 
     text-align: justify; 
-    background-color: rgb(192, 203, 221); 
+    background-color: rgb(240, 242, 196); 
     width: 550px; 
     padding: 10px 0; 
     display: block; 
@@ -51,6 +51,6 @@ footer{
 } 
     
 .container{ 
-    background-color: rgb(255, 255, 255); 
+    background-color: rgb(230, 205, 242); 
 }
     
